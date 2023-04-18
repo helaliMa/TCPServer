@@ -1,0 +1,12 @@
+D:\PocArcelorMittal\Models\bin\Debug\net7.0\Models.deps.json
+D:\PocArcelorMittal\Models\bin\Debug\net7.0\Models.dll
+D:\PocArcelorMittal\Models\bin\Debug\net7.0\Models.pdb
+D:\PocArcelorMittal\Models\obj\Debug\net7.0\Models.csproj.AssemblyReference.cache
+D:\PocArcelorMittal\Models\obj\Debug\net7.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\PocArcelorMittal\Models\obj\Debug\net7.0\Models.AssemblyInfoInputs.cache
+D:\PocArcelorMittal\Models\obj\Debug\net7.0\Models.AssemblyInfo.cs
+D:\PocArcelorMittal\Models\obj\Debug\net7.0\Models.csproj.CoreCompileInputs.cache
+D:\PocArcelorMittal\Models\obj\Debug\net7.0\Models.dll
+D:\PocArcelorMittal\Models\obj\Debug\net7.0\refint\Models.dll
+D:\PocArcelorMittal\Models\obj\Debug\net7.0\Models.pdb
+D:\PocArcelorMittal\Models\obj\Debug\net7.0\ref\Models.dll
